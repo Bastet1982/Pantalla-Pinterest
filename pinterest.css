@@ -1,0 +1,235 @@
+ul{
+	list-style: none;
+	font-family: sans-serif;
+}
+li{
+	display: inline-block;
+}
+
+
+.fa.fa-pinterest{
+	color: #C80B24;
+	position: relative;
+	left:5px;
+}
+
+.fa.fa-search{
+    /*border:1px solid red;( usado como referencia)*/
+    -moz-border-radius: 3%;
+    -webkit-border-radius: 3%;
+    border-radius: 3%;
+    background: #EFEFEF;
+    padding: 5px;
+    width: 1000px;
+    position:relative;
+    left:20px;    
+}
+.concept{
+	color:#B7B7B7;
+	font-size: 18px;
+	position: relative;
+	right:950px;
+	top:-4px;
+	z-index: 20;
+}
+
+.fa.fa-times{
+	position: relative;
+	right:260px;
+	z-index: 20;
+}
+.pins{
+	font-weight: bold;
+	font-size: 18px;
+	position: relative;
+	right:250px;
+	top:-4px;
+	z-index: 20;
+}
+.fa.fa-chevron-down{
+	position: relative;
+	right:240px;
+	z-index: 20;
+}
+
+.fa.fa-user{
+	color:#B5B5B5;
+	position: relative;
+	right:200px;
+}
+.fa.fa-bars{
+	color:#B5B5B5;
+	position: relative;
+	right:180px;
+}
+.fa.fa-commenting{
+	color:#B5B5B5;
+	position: relative;
+	left:1195px;
+	top:-38px;
+
+}
+
+
+.submenu{
+	/*border: 1px solid black;*/
+	font-size: 16px;
+	color:white;
+	font-weight: bold;
+	text-align: center;
+	padding-right:900px;	
+
+}
+.making{
+    background-image: url(http://www.letsbeecool.com/image/cache/slider%20images/Bluetooth%203.0%20Boombox%20Speaker%201%20Layers/Background-1350x450.jpg);
+    padding: 20px;
+    -moz-border-radius: 8%;
+    -webkit-border-radius: 8%;
+    border-radius: 8%;
+    
+}
+.sell{
+	background-image: url(http://www.groovybabies.com.au/wp-content/uploads/2015/05/background-450x470.png);
+    padding: 20px;
+    -moz-border-radius: 8%;
+    -webkit-border-radius: 8%;
+    border-radius: 8%;
+    position: relative;
+	left:10px;
+
+}
+.easy{
+	background-image: url(https://wallpapercave.com/wp/9j7ZF8S.jpg);
+    padding: 20px;
+    -moz-border-radius: 8%;
+    -webkit-border-radius: 8%;
+    border-radius: 8%;
+    position: relative;
+	left:25px;
+}
+.ideas{
+	background-image: url(https://www.wallpaper.net.in/file/11028/600x380/16:9/fondos-de-pantalla-color-azul_291973211.jpg);
+    padding: 20px;
+    -moz-border-radius: 8%;
+    -webkit-border-radius: 8%;
+    border-radius: 8%;
+    position: relative;
+	left:40px;
+}
+.rings{
+    background-image: url(http://www.keentherapy.com/wp-content/uploads/2016/05/natfl047.jpg);
+    padding: 20px;
+    -moz-border-radius: 8%;
+    -webkit-border-radius: 8%;
+    border-radius: 8%; 
+    position: relative;
+	left:50px;
+}
+.necklace{
+	background-image: url(http://www.goodshepherdmtholly.org/wp-content/uploads/2015/08/Yellow-Background-04-1024x768.jpg);
+    padding: 20px;
+    -moz-border-radius: 8%;
+    -webkit-border-radius: 8%;
+    border-radius: 8%;
+    position: relative;
+	left:390px;
+	top:-58px;
+}
+.earrings{
+	background-image: url(https://ak9.picdn.net/shutterstock/videos/16095319/thumb/1.jpg);
+    padding: 20px;
+    -moz-border-radius: 8%;
+    -webkit-border-radius: 8%;
+    border-radius: 8%;
+    position: relative;
+	left:410px;
+	top:-58px;
+
+}
+
+.theme1{
+	height: 1000px;
+	width:450px;
+	border:1px solid #B5B5B5;
+	-moz-border-radius: 1%;
+    -webkit-border-radius: 1%;
+    border-radius: 1%;
+    overflow: hidden;
+    position: absolute;
+    top:218px;
+    left: 40px;
+  
+}
+.theme2{
+	height: 700px;
+	width:450px;
+	border:1px solid #B5B5B5;
+	-moz-border-radius: 1%;
+    -webkit-border-radius: 1%;
+    border-radius: 1%;
+    overflow: hidden;
+    position: relative;
+    top:-45px;
+    left: 500px;
+
+}
+.theme3{
+    height: 1000px;
+	width:400px;
+	border:1px solid #B5B5B5;
+	-moz-border-radius: 1%;
+    -webkit-border-radius: 1%;
+    border-radius: 1%;
+    overflow: hidden;
+    position: relative;
+    top:-748px;
+    left: 980px;
+}
+.theme4{
+	height: 850px;
+	width:450px;
+	border:1px solid #B5B5B5;
+	-moz-border-radius: 1%;
+    -webkit-border-radius: 1%;
+    border-radius: 1%;
+    overflow: hidden;
+    position: absolute;
+    top:1310px;
+    left:40px;
+   
+
+}
+.theme5{
+	height: 1500px;
+	width:400px;
+	border:1px solid #B5B5B5;
+	-moz-border-radius: 1%;
+    -webkit-border-radius: 1%;
+    border-radius: 1%;
+    overflow: hidden;
+    position: relative;
+    left: 980px;
+    top:-600px;
+    
+
+}
+.theme6{
+	height: 950px;
+	width:450px;
+	border:1px solid #B5B5B5;
+	-moz-border-radius: 1%;
+    -webkit-border-radius: 1%;
+    border-radius: 1%;
+    overflow: hidden;
+    position: relative;
+    top:-2500px;
+    left: 505px;
+
+}
+h4{
+	font-family: sans-serif;
+	font-size: 16px;
+	color: #B5B5B5;
+	text-align: center;
+	hover
+}
